@@ -1,0 +1,7 @@
+= 2019 美帝西部游
+
+== 路线规划
+
+image::tour-line.jpeg[title="美帝西部自驾游路线", alt="美帝西部自驾游路线", width="95%"]
+
+image::tour-line-2.jpeg[title="美帝西部自驾游路线", alt="美帝西部自驾游路线", width="95%"]

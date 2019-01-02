@@ -1,0 +1,6 @@
+name: tour-plan
+title: 2019 美帝西部游
+version: latest
+start_page: index.adoc
+nav:
+- modules/ROOT/nav.adoc
