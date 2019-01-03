@@ -1,1 +1,41 @@
 = 签证
+
+== 【前期准备】
+
+. 签证照片。去照相馆就说办美国签证用，人家自然明白。电子版一张，再洗两张。
+. 护照。
+
+== 填写 DS160 表
+
+*【DS160表】此乃签证成功与否的关键*
+
+DS160表在线填写地址: https://ceac.state.gov/genniv/default.aspx[Nonimmigrant Visa - Instructions Page]
+
+接下来看图说话：
+
+image::visa-01.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
+image::visa-02.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
+image::visa-03.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
+image::visa-04.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
+image::visa-05.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
+image::visa-06.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
+image::visa-07.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
+image::visa-08.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
+image::visa-09.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
+image::visa-10.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
+image::visa-11.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
+image::visa-12.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
+image::visa-13.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
+image::visa-14.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
+image::visa-15.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
+image::visa-16.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
+image::visa-17.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
+image::visa-18.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
+image::visa-19.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
+image::visa-20.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
+image::visa-21.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
+image::visa-22.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
+image::visa-23.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
+image::visa-24.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
+image::visa-25.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
+image::visa-26.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
