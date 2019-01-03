@@ -1,2 +1,6 @@
 * xref:index.adoc[首页]
+* xref:visa.adoc[签证]
+* xref:driving-license.adoc[驾照]
+* xref:car-rentals.adoc[租车]
+* xref:air-ticket.adoc[机票]
 * xref:references.adoc[参考资料]
