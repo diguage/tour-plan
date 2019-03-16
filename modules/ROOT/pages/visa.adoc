@@ -2,11 +2,13 @@
 
 NOTE: 我几乎是照抄的 https://bbs.qyer.com/thread-2523177-1.html ，并且省略了一些图片。可以去原贴看带有更多详细图片的完整版。
 
+[[prepare]]
 == 前期准备
 
 . 签证照片。去照相馆就说办美国签证用，人家自然明白。电子版一张，再洗两张。
 . 护照。
 
+[[ds160]]
 == 填写 DS160 表
 
 *【DS160表】此乃签证成功与否的关键*
@@ -42,6 +44,7 @@ image::visa-24.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width=
 image::visa-25.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
 image::visa-26.jpeg[title="美帝签证 DS160", alt="美帝签证 DS160", width="95%"]
 
+[[apply-interview]]
 == 面签的缴费与预约
 
 面谈的缴费与预约地址： https://cgifederal.secure.force.com/[申请美国签证： https://cgifederal.secure.force.com]
@@ -62,6 +65,7 @@ image::interview-13.jpeg[title="美帝面签的缴费与预约", alt="美帝面�
 image::interview-14.webp[title="美帝面签的缴费与预约", alt="美帝面签的缴费与预约", width="95%"]
 
 
+[[interview]]
 == 面签材料的准备
 
 一个原则：证明你在国内生活地非常不错，没有移民倾向和任何不轨的意图。
@@ -115,6 +119,7 @@ image::interview-attentions.jpeg[title="面试注意事项", alt="面试注意�
 
 指纹采集完毕马上就会被指引至面谈窗口！人多也可能继续到馆外排队。
 
+[[attentions]]
 == 注意事项
 
 下面总结一些面谈的注意事项（此部分将不断更新）：
@@ -130,7 +135,7 @@ image::interview-attentions.jpeg[title="面试注意事项", alt="面试注意�
 . 尊重别人的隐私，等前一位完全离开窗口，VO示意时再上前，女士先行。
 . 关于VO的问题网上有太多总结了，问到的概率比较大的有：为什么去？去哪些地方？什么时候去？去多久？工作是？回答一定与DS160一致。
 
-
+[[references]]
 == 参考资料
 
 . https://bbs.qyer.com/thread-2523177-1.html[史上最详细的美国签证攻略，一步一步带你拿到美签（附美国签证照片要求），美西八天自驾游记已完结 - 签证 - 论坛 - 穷游网]
